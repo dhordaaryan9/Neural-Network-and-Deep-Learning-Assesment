@@ -1,0 +1,1001 @@
+City,Delivery_Time_min,Revenue,Restaurant
+Chennai,36.1,345.13,KFC
+Pune,42.3,1365.04,Pizza Hut
+Bangalore,39.8,1670.89,Pizza Hut
+Pune,37.2,853.78,Subway
+Pune,27.1,1584.88,KFC
+Delhi,39.7,1934.28,Pizza Hut
+Bangalore,53.8,526.97,Pizza Hut
+Bangalore,48.5,1118.16,KFC
+Bangalore,50.9,681.21,Domino's
+Pune,29.9,1616.78,Pizza Hut
+Chennai,25.1,1218.55,Burger King
+Bangalore,33.7,1323.98,KFC
+Pune,35.6,1626.14,Pizza Hut
+Delhi,45.9,882.55,Subway
+Chennai,18.1,1842.92,Taco Bell
+Delhi,50.3,1136.1,Burger King
+Chennai,33.4,442.22,Taco Bell
+Pune,30.7,1437.41,Taco Bell
+Mumbai,24.9,1617.53,Pizza Hut
+Chennai,18.5,736.01,Burger King
+Delhi,43.2,1735.78,Burger King
+Pune,35.7,1826.37,Domino's
+Chennai,22.1,662.27,Taco Bell
+Mumbai,22.0,1969.51,Burger King
+Mumbai,31.6,410.32,Domino's
+Bangalore,51.7,523.73,KFC
+Bangalore,32.4,490.82,Domino's
+Delhi,20.0,1803.88,Subway
+Chennai,32.5,1360.44,Pizza Hut
+Chennai,32.3,431.39,KFC
+Bangalore,10.0,964.6,KFC
+Chennai,34.5,1288.3,Subway
+Chennai,32.7,304.41,Domino's
+Mumbai,42.0,1782.47,Pizza Hut
+Bangalore,53.5,1636.67,Domino's
+Pune,46.3,1084.63,Burger King
+Bangalore,32.3,1939.18,Domino's
+Pune,23.9,922.86,KFC
+Mumbai,60.7,1970.6,Pizza Hut
+Delhi,35.6,1385.65,Domino's
+Chennai,35.1,1324.14,Pizza Hut
+Mumbai,34.8,457.02,Pizza Hut
+Chennai,37.0,1781.57,Burger King
+Delhi,33.6,940.86,Burger King
+Delhi,29.3,450.13,KFC
+Mumbai,29.5,173.32,Subway
+Delhi,34.7,1185.55,Pizza Hut
+Pune,29.6,1125.69,Subway
+Delhi,27.9,1480.8,KFC
+Chennai,36.1,1796.98,Pizza Hut
+Chennai,32.5,296.9,Pizza Hut
+Chennai,50.0,1503.27,Taco Bell
+Chennai,10.0,496.71,Subway
+Pune,45.9,1737.63,Domino's
+Bangalore,47.5,1665.27,Burger King
+Mumbai,14.3,1150.47,Domino's
+Chennai,31.6,1463.95,Subway
+Delhi,31.3,731.55,Burger King
+Chennai,20.9,1021.66,Domino's
+Delhi,27.2,1670.03,Taco Bell
+Delhi,23.9,999.64,Burger King
+Chennai,52.5,811.93,Pizza Hut
+Pune,44.4,1064.29,Domino's
+Delhi,47.7,1682.26,Burger King
+Delhi,42.2,770.13,Taco Bell
+Chennai,23.7,471.46,Burger King
+Delhi,29.8,1467.23,Burger King
+Delhi,39.9,1678.06,Taco Bell
+Chennai,22.8,336.18,Domino's
+Chennai,42.1,593.77,KFC
+Mumbai,32.6,412.65,Domino's
+Pune,31.3,793.69,Subway
+Pune,42.1,983.15,Taco Bell
+Delhi,39.4,1535.33,Domino's
+Pune,31.4,1354.62,Burger King
+Delhi,46.6,1298.72,Taco Bell
+Mumbai,24.2,801.89,Pizza Hut
+Chennai,41.2,1706.68,Domino's
+Chennai,40.9,1021.88,Taco Bell
+Chennai,31.9,1961.34,Domino's
+Pune,38.3,1323.16,Taco Bell
+Mumbai,22.5,383.59,Burger King
+Pune,44.2,1400.93,Pizza Hut
+Pune,33.2,751.44,Pizza Hut
+Mumbai,29.8,1419.71,Subway
+Mumbai,45.5,278.84,Taco Bell
+Mumbai,28.0,473.53,Domino's
+Mumbai,20.9,1733.11,Pizza Hut
+Chennai,19.4,570.28,Pizza Hut
+Bangalore,41.1,1698.53,KFC
+Bangalore,22.2,666.66,KFC
+Mumbai,52.5,1339.33,Pizza Hut
+Bangalore,14.2,1434.18,Taco Bell
+Bangalore,52.0,1098.41,Subway
+Mumbai,37.1,714.82,Pizza Hut
+Bangalore,34.0,543.39,Burger King
+Pune,29.6,211.4,Domino's
+Delhi,39.0,712.3,Subway
+Delhi,34.6,1358.35,Burger King
+Mumbai,46.0,1885.86,Subway
+Chennai,36.1,1761.73,Burger King
+Mumbai,36.5,1567.22,Domino's
+Chennai,31.4,1608.63,Domino's
+Delhi,34.4,1380.22,KFC
+Mumbai,38.1,631.53,Taco Bell
+Pune,17.9,1828.31,Burger King
+Bangalore,21.5,1390.85,KFC
+Chennai,42.4,1186.82,Burger King
+Bangalore,36.7,355.33,KFC
+Bangalore,33.2,977.05,Domino's
+Mumbai,35.2,1001.66,Subway
+Bangalore,38.5,1749.44,KFC
+Pune,29.6,1161.3,Burger King
+Bangalore,27.2,853.74,Burger King
+Mumbai,37.0,1957.08,Taco Bell
+Pune,25.2,354.83,Domino's
+Delhi,39.1,931.71,Burger King
+Bangalore,18.0,227.75,Pizza Hut
+Mumbai,45.3,1518.82,Subway
+Delhi,39.7,1848.44,KFC
+Delhi,37.6,668.07,Taco Bell
+Chennai,44.8,1737.93,Subway
+Pune,51.7,690.6,Domino's
+Bangalore,45.1,1834.92,Taco Bell
+Mumbai,16.6,1544.83,KFC
+Chennai,22.2,1639.08,KFC
+Pune,28.8,183.31,Pizza Hut
+Chennai,35.3,1931.2,Domino's
+Pune,40.2,1494.34,Taco Bell
+Pune,27.7,713.79,Taco Bell
+Bangalore,36.9,1684.38,Burger King
+Pune,27.4,670.81,Pizza Hut
+Chennai,28.9,1764.59,Pizza Hut
+Pune,20.9,358.27,Taco Bell
+Bangalore,25.8,1451.82,Taco Bell
+Bangalore,21.5,1150.29,Subway
+Chennai,25.2,328.59,Subway
+Delhi,45.5,597.5,Subway
+Delhi,25.5,172.95,Pizza Hut
+Pune,61.3,1017.22,Burger King
+Mumbai,39.9,707.34,KFC
+Pune,36.8,1256.96,Subway
+Chennai,26.4,699.89,Burger King
+Chennai,42.0,704.85,Domino's
+Chennai,29.2,1524.91,Subway
+Chennai,36.2,239.06,KFC
+Chennai,60.6,1820.36,Domino's
+Bangalore,34.0,1726.69,Domino's
+Delhi,46.5,1385.44,KFC
+Chennai,28.0,1247.46,Subway
+Mumbai,34.7,1800.76,Pizza Hut
+Mumbai,52.7,492.86,KFC
+Mumbai,28.7,296.09,KFC
+Mumbai,53.1,593.09,KFC
+Bangalore,42.1,1619.97,Domino's
+Mumbai,29.4,214.14,Burger King
+Chennai,41.3,1228.19,Pizza Hut
+Pune,44.7,1991.56,Subway
+Mumbai,41.2,1733.04,Subway
+Bangalore,19.3,1114.67,Burger King
+Bangalore,27.7,267.74,KFC
+Mumbai,32.5,1688.04,Pizza Hut
+Pune,34.3,1258.11,Subway
+Mumbai,41.2,362.63,Taco Bell
+Bangalore,36.8,323.64,Subway
+Delhi,21.6,1832.81,KFC
+Chennai,38.8,1388.02,Taco Bell
+Bangalore,41.1,1684.18,Burger King
+Mumbai,40.6,1776.11,Pizza Hut
+Chennai,45.8,1207.78,Burger King
+Mumbai,43.3,1107.28,Burger King
+Mumbai,39.6,946.29,Pizza Hut
+Delhi,34.3,736.35,Pizza Hut
+Chennai,18.4,954.0,Subway
+Chennai,39.3,1581.68,Subway
+Delhi,37.1,1263.56,Pizza Hut
+Bangalore,37.7,1801.17,Taco Bell
+Mumbai,22.2,970.25,Domino's
+Pune,24.2,1273.12,Subway
+Mumbai,45.5,1317.92,Domino's
+Mumbai,34.6,1244.64,Taco Bell
+Bangalore,41.8,1449.87,Pizza Hut
+Mumbai,35.3,589.25,Taco Bell
+Delhi,35.3,1097.87,Subway
+Delhi,44.4,342.82,Burger King
+Chennai,29.8,861.35,Pizza Hut
+Pune,36.0,1052.18,KFC
+Mumbai,30.4,1356.61,Domino's
+Mumbai,30.7,1908.48,Taco Bell
+Bangalore,31.9,1261.2,Pizza Hut
+Delhi,37.2,1525.65,Taco Bell
+Pune,30.2,1086.59,Pizza Hut
+Chennai,47.6,1323.09,Subway
+Delhi,26.1,281.22,Subway
+Chennai,33.1,620.62,Subway
+Bangalore,30.6,819.43,Taco Bell
+Bangalore,49.5,1024.11,KFC
+Mumbai,37.0,234.45,Subway
+Pune,45.3,409.04,Pizza Hut
+Chennai,20.1,662.11,Subway
+Delhi,37.7,1947.34,Burger King
+Bangalore,43.9,762.99,Subway
+Mumbai,35.8,1041.78,Taco Bell
+Mumbai,45.7,512.78,KFC
+Chennai,29.8,1279.94,Burger King
+Bangalore,49.1,669.26,Taco Bell
+Pune,58.0,532.94,Taco Bell
+Bangalore,31.4,1105.66,Taco Bell
+Chennai,30.5,160.19,Pizza Hut
+Chennai,49.5,164.18,Taco Bell
+Bangalore,50.8,555.28,Pizza Hut
+Chennai,29.8,217.93,Taco Bell
+Bangalore,30.8,349.85,Domino's
+Delhi,32.2,776.89,Burger King
+Bangalore,21.6,1634.78,Domino's
+Bangalore,25.8,1208.29,Taco Bell
+Chennai,25.0,1098.44,Burger King
+Chennai,27.3,692.95,Burger King
+Mumbai,34.7,1873.74,KFC
+Mumbai,37.3,884.48,Domino's
+Delhi,50.5,311.12,KFC
+Mumbai,25.0,1291.57,Burger King
+Bangalore,44.8,360.6,Pizza Hut
+Chennai,32.9,788.66,Burger King
+Mumbai,34.5,1088.71,KFC
+Mumbai,41.7,1767.31,Domino's
+Delhi,23.8,1063.06,Taco Bell
+Delhi,38.8,1449.18,Taco Bell
+Bangalore,36.7,1986.71,Domino's
+Chennai,39.9,393.25,Taco Bell
+Delhi,37.9,658.25,Taco Bell
+Mumbai,59.6,879.97,KFC
+Chennai,28.6,930.38,Domino's
+Chennai,29.7,910.39,Subway
+Mumbai,28.8,1829.08,Pizza Hut
+Delhi,29.4,1470.96,Pizza Hut
+Mumbai,28.6,1274.62,Taco Bell
+Chennai,46.9,722.34,Pizza Hut
+Pune,49.2,1674.01,Domino's
+Pune,29.3,1916.86,Domino's
+Bangalore,26.7,1669.22,Burger King
+Mumbai,39.7,152.9,Burger King
+Mumbai,29.5,1327.34,Pizza Hut
+Bangalore,41.3,244.6,Subway
+Bangalore,37.0,626.57,Burger King
+Bangalore,19.8,260.12,Burger King
+Chennai,50.5,1267.02,Domino's
+Mumbai,53.0,1420.19,Subway
+Chennai,28.9,361.8,Taco Bell
+Bangalore,31.1,860.1,Pizza Hut
+Mumbai,37.9,994.04,Burger King
+Chennai,38.3,832.75,Subway
+Chennai,41.6,373.9,Subway
+Bangalore,55.1,925.05,Pizza Hut
+Mumbai,33.2,1539.68,Subway
+Bangalore,27.0,281.36,Subway
+Mumbai,21.2,298.33,Subway
+Pune,27.7,806.33,Burger King
+Delhi,34.7,1892.19,Pizza Hut
+Delhi,52.9,1386.86,Subway
+Delhi,29.8,1405.54,Subway
+Bangalore,37.2,819.55,Burger King
+Pune,34.8,1248.27,Pizza Hut
+Mumbai,46.9,168.74,Domino's
+Chennai,60.3,1326.78,Burger King
+Mumbai,29.7,1839.58,Pizza Hut
+Chennai,30.1,1283.26,Subway
+Mumbai,45.4,1766.34,Pizza Hut
+Pune,41.8,1489.35,Pizza Hut
+Chennai,53.5,373.03,Taco Bell
+Bangalore,40.8,1819.54,Pizza Hut
+Mumbai,31.4,272.92,Domino's
+Mumbai,40.9,1137.84,Pizza Hut
+Chennai,46.1,412.95,Domino's
+Bangalore,43.2,171.66,Subway
+Bangalore,40.1,930.76,Domino's
+Pune,45.7,695.83,Subway
+Bangalore,46.7,1049.1,Subway
+Bangalore,48.8,1217.82,Domino's
+Bangalore,41.5,230.92,Burger King
+Delhi,33.3,377.56,KFC
+Pune,36.5,1183.49,Pizza Hut
+Mumbai,47.1,784.86,Taco Bell
+Chennai,26.8,1498.97,KFC
+Mumbai,38.7,1356.74,Pizza Hut
+Pune,31.1,1714.37,Pizza Hut
+Chennai,35.3,1431.11,Subway
+Pune,47.8,945.37,Pizza Hut
+Bangalore,36.9,1394.99,Taco Bell
+Chennai,35.5,659.46,Pizza Hut
+Bangalore,21.4,716.68,Domino's
+Mumbai,42.5,1609.62,KFC
+Mumbai,41.5,975.88,Domino's
+Chennai,56.6,1627.0,Taco Bell
+Chennai,31.9,1671.48,Pizza Hut
+Pune,37.2,1736.49,Taco Bell
+Pune,37.5,1845.78,Subway
+Bangalore,50.8,947.32,Domino's
+Chennai,34.0,739.9,Domino's
+Mumbai,37.8,1227.07,Burger King
+Pune,41.1,836.67,Pizza Hut
+Pune,36.9,1261.99,Subway
+Mumbai,30.5,1455.33,Domino's
+Pune,36.9,1423.55,Domino's
+Bangalore,45.7,842.92,Subway
+Chennai,24.7,458.69,Taco Bell
+Mumbai,36.3,946.48,Taco Bell
+Chennai,28.0,413.8,Pizza Hut
+Pune,47.0,1796.68,Burger King
+Pune,19.8,789.87,Domino's
+Mumbai,29.4,435.75,Burger King
+Bangalore,38.8,197.08,Taco Bell
+Delhi,50.7,1344.77,Taco Bell
+Mumbai,34.3,1328.27,KFC
+Delhi,29.4,780.12,Pizza Hut
+Delhi,53.8,282.67,KFC
+Bangalore,20.5,907.81,KFC
+Delhi,13.0,725.75,KFC
+Delhi,39.4,1402.67,Pizza Hut
+Bangalore,30.0,1270.69,Pizza Hut
+Delhi,24.8,824.5,Subway
+Delhi,42.1,553.1,Burger King
+Delhi,37.4,1977.87,Burger King
+Mumbai,29.4,989.9,Subway
+Mumbai,22.2,1423.31,Subway
+Mumbai,43.7,410.02,Taco Bell
+Bangalore,41.5,1048.34,KFC
+Pune,34.0,200.94,Subway
+Delhi,53.5,1085.09,Domino's
+Delhi,24.3,1933.43,Burger King
+Bangalore,19.7,860.78,Subway
+Delhi,28.1,222.14,Domino's
+Mumbai,34.5,207.27,Domino's
+Pune,37.4,867.78,Domino's
+Chennai,32.6,446.05,Taco Bell
+Delhi,38.5,193.2,Taco Bell
+Mumbai,22.5,1549.0,Domino's
+Chennai,49.4,998.27,Taco Bell
+Pune,34.2,685.1,KFC
+Chennai,46.2,1815.15,Domino's
+Mumbai,38.4,364.86,KFC
+Chennai,39.6,1918.45,KFC
+Bangalore,40.7,730.84,Domino's
+Chennai,39.5,1793.55,Burger King
+Delhi,41.4,1265.44,Domino's
+Delhi,48.3,1679.41,Domino's
+Bangalore,37.0,1970.42,Taco Bell
+Mumbai,42.1,683.55,Domino's
+Delhi,34.1,1928.1,Burger King
+Pune,49.4,870.54,Taco Bell
+Delhi,28.2,863.2,Pizza Hut
+Delhi,53.0,779.72,Pizza Hut
+Mumbai,34.6,1151.6,KFC
+Chennai,20.7,435.17,KFC
+Delhi,36.3,1174.37,Burger King
+Bangalore,28.2,1152.15,Subway
+Chennai,43.4,1559.52,Pizza Hut
+Pune,28.5,1692.25,KFC
+Mumbai,30.5,964.82,Pizza Hut
+Pune,16.1,709.32,Burger King
+Chennai,30.5,629.77,Burger King
+Chennai,10.8,510.05,Subway
+Chennai,19.2,256.65,Subway
+Pune,42.6,783.53,Taco Bell
+Chennai,42.9,649.96,Burger King
+Pune,39.3,1937.87,KFC
+Chennai,25.3,1181.76,Pizza Hut
+Bangalore,34.5,792.46,Domino's
+Chennai,35.0,1223.87,Subway
+Pune,23.4,407.51,Domino's
+Delhi,50.0,971.48,KFC
+Chennai,43.8,1308.53,Subway
+Delhi,32.8,1054.46,Domino's
+Bangalore,35.3,893.29,KFC
+Mumbai,37.1,1988.62,Pizza Hut
+Bangalore,14.6,1778.58,KFC
+Chennai,32.5,1303.3,Taco Bell
+Delhi,28.2,1203.35,Subway
+Delhi,25.0,1298.22,Burger King
+Pune,32.2,522.43,Pizza Hut
+Delhi,53.0,881.0,Domino's
+Pune,41.4,223.0,Subway
+Mumbai,29.3,1029.76,Burger King
+Chennai,40.7,1154.6,KFC
+Pune,49.0,571.34,Burger King
+Mumbai,44.2,1933.45,Subway
+Delhi,35.6,1832.49,Subway
+Delhi,28.5,1485.96,Taco Bell
+Mumbai,42.0,1136.77,Taco Bell
+Delhi,38.9,1759.44,Burger King
+Mumbai,44.0,391.71,KFC
+Pune,41.4,1612.44,Burger King
+Pune,45.5,380.92,Subway
+Mumbai,29.6,1619.29,Subway
+Pune,48.2,660.17,Domino's
+Pune,37.0,1772.62,Taco Bell
+Pune,55.8,1896.48,Domino's
+Bangalore,28.1,425.27,Pizza Hut
+Chennai,52.4,1005.95,Subway
+Delhi,37.0,1964.83,Domino's
+Bangalore,28.5,1044.3,Burger King
+Pune,30.2,1747.56,Taco Bell
+Mumbai,31.8,1239.15,Taco Bell
+Pune,39.2,844.36,KFC
+Chennai,40.2,678.7,Burger King
+Pune,29.3,525.96,KFC
+Mumbai,34.8,1559.33,Domino's
+Chennai,56.4,865.1,Pizza Hut
+Pune,52.3,1095.86,Burger King
+Chennai,39.4,1060.8,Burger King
+Delhi,35.4,1217.97,Burger King
+Delhi,36.2,1751.32,KFC
+Pune,41.1,1964.37,Domino's
+Chennai,24.8,904.03,Burger King
+Mumbai,32.4,1680.91,Burger King
+Pune,18.3,1564.38,Taco Bell
+Delhi,39.0,1211.03,Pizza Hut
+Delhi,41.5,1918.69,Taco Bell
+Pune,30.2,520.88,Taco Bell
+Chennai,50.7,352.14,Pizza Hut
+Delhi,22.7,1729.83,Domino's
+Chennai,20.4,962.43,Taco Bell
+Delhi,37.2,1716.89,Domino's
+Delhi,45.5,1802.22,Taco Bell
+Bangalore,51.8,265.55,Subway
+Delhi,30.4,1784.41,Pizza Hut
+Mumbai,45.8,979.39,Taco Bell
+Pune,34.6,1094.3,Subway
+Pune,33.3,1309.2,KFC
+Chennai,43.8,1863.81,Subway
+Delhi,41.5,185.36,Burger King
+Mumbai,19.2,1032.16,Taco Bell
+Chennai,49.8,1422.29,Subway
+Bangalore,48.8,1487.01,Domino's
+Chennai,28.7,1431.18,KFC
+Chennai,39.0,398.7,Taco Bell
+Delhi,39.9,703.88,Burger King
+Bangalore,37.6,813.62,Subway
+Chennai,29.5,1638.21,KFC
+Mumbai,28.3,665.71,Taco Bell
+Mumbai,34.7,539.8,KFC
+Pune,46.7,1921.28,Burger King
+Bangalore,40.4,166.4,Subway
+Bangalore,31.3,1995.97,KFC
+Pune,42.7,1402.12,KFC
+Chennai,10.0,1682.67,Pizza Hut
+Bangalore,46.5,695.05,KFC
+Mumbai,17.6,176.48,Pizza Hut
+Mumbai,31.4,1515.06,Subway
+Delhi,23.8,1693.17,Taco Bell
+Bangalore,22.1,1519.88,Taco Bell
+Chennai,46.6,414.27,Subway
+Pune,30.3,1543.84,Subway
+Pune,38.5,1572.51,Domino's
+Chennai,34.5,1368.3,Subway
+Delhi,39.8,1567.31,KFC
+Pune,35.8,1714.95,Taco Bell
+Bangalore,22.2,1285.17,Burger King
+Delhi,45.0,313.92,Taco Bell
+Bangalore,30.1,1052.11,Pizza Hut
+Mumbai,19.4,293.65,Taco Bell
+Delhi,30.7,903.95,Domino's
+Pune,50.0,903.15,Subway
+Delhi,43.5,272.12,Subway
+Delhi,31.5,795.32,Taco Bell
+Delhi,31.5,355.35,Burger King
+Delhi,31.8,1645.24,Burger King
+Bangalore,55.8,1903.22,Domino's
+Mumbai,38.8,283.79,Pizza Hut
+Chennai,39.3,1916.96,Taco Bell
+Delhi,45.3,1116.77,Subway
+Pune,37.4,704.2,Taco Bell
+Delhi,32.4,292.19,Domino's
+Pune,33.0,1076.15,KFC
+Bangalore,34.3,1619.85,KFC
+Pune,34.6,1458.11,Domino's
+Chennai,42.3,242.92,Subway
+Mumbai,35.5,284.87,Domino's
+Pune,42.3,895.32,Subway
+Pune,34.2,696.29,Burger King
+Mumbai,35.8,579.91,Domino's
+Chennai,15.0,669.86,Subway
+Delhi,44.2,1636.44,Domino's
+Pune,38.5,1869.07,Domino's
+Mumbai,45.0,899.44,Subway
+Bangalore,10.0,1826.31,Subway
+Mumbai,55.9,744.77,Pizza Hut
+Bangalore,33.6,1031.41,Domino's
+Chennai,46.1,568.15,KFC
+Delhi,24.6,1334.88,Domino's
+Mumbai,41.1,1961.12,Domino's
+Pune,24.5,1266.46,Subway
+Chennai,28.8,811.96,Domino's
+Mumbai,54.1,1348.46,Taco Bell
+Pune,33.1,377.4,Domino's
+Mumbai,37.2,1794.02,Taco Bell
+Bangalore,43.7,1080.71,KFC
+Mumbai,40.0,981.3,Subway
+Mumbai,36.5,1233.85,Domino's
+Mumbai,38.6,1305.85,Taco Bell
+Chennai,59.0,282.79,Taco Bell
+Mumbai,34.4,1412.84,Taco Bell
+Pune,37.0,597.57,Burger King
+Bangalore,45.5,1470.81,Pizza Hut
+Bangalore,46.1,1671.69,KFC
+Mumbai,46.9,1637.32,Domino's
+Chennai,41.4,1172.13,Burger King
+Chennai,23.6,1112.31,Domino's
+Pune,51.3,414.32,Domino's
+Mumbai,23.5,1584.39,Subway
+Bangalore,38.0,652.11,Subway
+Chennai,27.5,1068.89,Subway
+Mumbai,34.4,675.91,Burger King
+Chennai,38.3,397.58,Domino's
+Chennai,38.2,1314.68,Pizza Hut
+Bangalore,39.2,250.51,KFC
+Delhi,51.1,1534.99,Subway
+Pune,39.5,737.54,Subway
+Pune,32.6,150.25,Domino's
+Bangalore,44.6,1095.59,Domino's
+Chennai,46.9,236.68,Burger King
+Mumbai,22.7,660.91,Burger King
+Chennai,41.0,1457.91,Subway
+Bangalore,42.0,265.98,Domino's
+Pune,32.0,1702.78,Pizza Hut
+Chennai,48.8,157.07,KFC
+Pune,33.5,606.62,Domino's
+Mumbai,36.3,1520.67,Domino's
+Pune,33.3,735.1,Taco Bell
+Pune,35.2,338.5,Burger King
+Delhi,24.0,816.43,KFC
+Delhi,20.6,650.23,Subway
+Delhi,50.9,1709.02,Domino's
+Pune,26.5,729.69,Subway
+Bangalore,25.1,1609.53,Domino's
+Pune,13.5,1799.96,Subway
+Bangalore,28.6,952.56,KFC
+Bangalore,21.8,1833.39,Burger King
+Delhi,51.4,848.04,KFC
+Chennai,45.1,1933.55,Taco Bell
+Mumbai,28.1,315.19,Pizza Hut
+Delhi,57.5,1420.99,Burger King
+Delhi,44.8,1063.56,KFC
+Chennai,31.8,867.15,Taco Bell
+Mumbai,10.0,1320.52,Pizza Hut
+Pune,57.9,1452.14,Taco Bell
+Pune,21.1,158.07,Domino's
+Delhi,18.5,458.86,Domino's
+Mumbai,45.2,1469.14,Subway
+Delhi,59.4,1382.81,Burger King
+Bangalore,48.8,1937.19,Domino's
+Delhi,40.6,1557.92,Taco Bell
+Delhi,40.9,1908.93,Burger King
+Pune,43.5,1449.7,Domino's
+Pune,42.6,701.4,Subway
+Pune,37.8,344.93,KFC
+Bangalore,36.0,1596.37,Subway
+Pune,34.4,1341.68,Pizza Hut
+Mumbai,27.5,239.14,Domino's
+Chennai,32.2,816.09,Pizza Hut
+Mumbai,18.1,1920.08,Pizza Hut
+Mumbai,34.0,1075.74,Taco Bell
+Pune,25.1,950.55,Burger King
+Chennai,24.0,996.74,Taco Bell
+Chennai,36.8,536.43,Domino's
+Chennai,48.9,832.11,Pizza Hut
+Bangalore,44.2,834.15,KFC
+Pune,19.3,246.86,Pizza Hut
+Chennai,25.1,1570.0,KFC
+Bangalore,44.4,920.53,Taco Bell
+Delhi,25.2,1671.03,Taco Bell
+Delhi,32.8,1723.14,Burger King
+Bangalore,40.5,542.19,Pizza Hut
+Bangalore,25.3,1366.1,Subway
+Pune,36.1,1023.72,Taco Bell
+Pune,21.7,1778.29,Taco Bell
+Delhi,29.0,549.12,Burger King
+Chennai,38.2,1403.95,KFC
+Delhi,19.1,1274.34,Burger King
+Chennai,39.4,696.31,Pizza Hut
+Chennai,34.8,402.71,Domino's
+Pune,40.5,1355.53,Domino's
+Mumbai,37.2,1516.41,KFC
+Mumbai,48.6,733.91,Taco Bell
+Bangalore,36.3,1342.94,KFC
+Pune,30.7,880.99,Taco Bell
+Chennai,36.2,1469.43,Taco Bell
+Mumbai,40.4,518.55,Domino's
+Chennai,35.5,1796.9,KFC
+Mumbai,35.4,681.71,Burger King
+Mumbai,28.0,830.4,Taco Bell
+Mumbai,28.4,257.47,Subway
+Pune,21.0,356.3,Subway
+Delhi,52.5,1104.34,Burger King
+Chennai,22.6,645.05,Subway
+Pune,28.1,1695.64,Pizza Hut
+Pune,27.8,177.18,Taco Bell
+Pune,43.9,851.32,Burger King
+Pune,32.1,774.09,KFC
+Pune,47.5,185.76,Taco Bell
+Bangalore,28.3,380.08,Burger King
+Chennai,37.8,915.24,Domino's
+Pune,26.6,1061.8,KFC
+Chennai,56.5,897.94,Domino's
+Bangalore,23.1,1132.23,Taco Bell
+Bangalore,38.1,1250.99,KFC
+Chennai,41.3,168.36,Subway
+Mumbai,39.1,1008.58,Burger King
+Delhi,33.1,1932.47,Taco Bell
+Mumbai,33.7,1110.21,Pizza Hut
+Mumbai,35.4,1403.45,KFC
+Mumbai,33.5,726.95,KFC
+Pune,44.6,1581.88,Taco Bell
+Bangalore,57.1,1579.9,Taco Bell
+Mumbai,29.4,1114.4,Domino's
+Bangalore,21.3,1955.63,Subway
+Chennai,34.1,382.27,Domino's
+Delhi,60.8,181.35,Domino's
+Chennai,27.0,1574.79,Subway
+Chennai,51.4,1643.24,Pizza Hut
+Pune,51.8,372.38,Domino's
+Delhi,29.5,641.33,Domino's
+Chennai,40.7,182.47,KFC
+Chennai,51.3,692.62,Subway
+Delhi,31.2,1580.31,Burger King
+Delhi,33.0,1108.23,Pizza Hut
+Chennai,29.2,793.98,Pizza Hut
+Delhi,24.9,837.72,Subway
+Chennai,28.5,152.5,Taco Bell
+Chennai,22.8,704.63,Taco Bell
+Pune,35.3,1345.95,KFC
+Mumbai,27.3,1952.26,KFC
+Chennai,37.3,1717.06,Subway
+Bangalore,19.4,193.65,KFC
+Mumbai,38.3,1812.34,Pizza Hut
+Mumbai,43.3,1598.92,Pizza Hut
+Mumbai,15.1,1593.7,Burger King
+Pune,38.7,997.29,Taco Bell
+Chennai,47.3,886.31,Subway
+Pune,22.9,710.39,Domino's
+Chennai,51.7,271.54,Taco Bell
+Pune,39.2,572.24,Domino's
+Pune,27.9,606.22,Burger King
+Bangalore,34.4,1045.54,Burger King
+Pune,40.6,1532.77,KFC
+Delhi,35.8,1026.55,Burger King
+Bangalore,40.4,257.01,Burger King
+Pune,25.8,1921.91,Domino's
+Mumbai,36.7,1894.04,KFC
+Delhi,20.9,1602.6,Burger King
+Delhi,33.9,1983.96,Taco Bell
+Delhi,26.0,1157.29,Burger King
+Bangalore,27.6,1931.12,KFC
+Pune,47.4,289.87,Subway
+Pune,45.9,826.51,KFC
+Mumbai,41.1,566.96,Domino's
+Mumbai,24.1,512.29,Subway
+Delhi,31.8,410.49,Taco Bell
+Mumbai,47.1,1301.47,Pizza Hut
+Bangalore,36.4,1595.45,KFC
+Pune,58.2,1219.85,Domino's
+Delhi,38.9,421.88,Taco Bell
+Mumbai,36.9,1650.58,Subway
+Bangalore,31.9,1326.52,Taco Bell
+Bangalore,36.3,868.11,KFC
+Mumbai,33.5,1397.14,Burger King
+Pune,42.1,630.82,KFC
+Mumbai,44.6,788.61,Pizza Hut
+Delhi,27.1,1847.35,KFC
+Mumbai,21.7,687.43,Subway
+Bangalore,16.6,1019.48,Subway
+Mumbai,40.1,1796.76,KFC
+Pune,24.0,1459.28,Subway
+Chennai,13.5,265.08,Burger King
+Mumbai,38.9,422.51,Taco Bell
+Pune,59.9,164.51,KFC
+Pune,34.9,1317.21,Burger King
+Bangalore,43.4,978.2,Taco Bell
+Pune,35.8,398.41,Taco Bell
+Pune,34.0,1922.18,Burger King
+Pune,44.2,1129.87,Domino's
+Pune,32.1,597.5,KFC
+Delhi,37.7,1076.12,Taco Bell
+Delhi,38.2,1407.3,Taco Bell
+Bangalore,28.3,291.04,Subway
+Mumbai,44.9,658.2,Taco Bell
+Pune,33.3,1642.89,Burger King
+Mumbai,27.4,1000.38,Taco Bell
+Mumbai,40.4,1161.17,Domino's
+Bangalore,26.0,950.71,KFC
+Pune,35.3,231.21,KFC
+Pune,34.9,456.64,Taco Bell
+Chennai,45.9,974.25,Pizza Hut
+Mumbai,39.7,536.99,Pizza Hut
+Mumbai,34.7,242.46,Burger King
+Delhi,43.2,1710.75,Pizza Hut
+Chennai,48.9,1965.21,Burger King
+Delhi,40.6,1617.31,Subway
+Delhi,35.1,1729.5,Burger King
+Delhi,21.9,597.66,Pizza Hut
+Bangalore,24.3,1927.16,Taco Bell
+Bangalore,31.9,514.31,Subway
+Delhi,28.9,1910.15,Pizza Hut
+Chennai,33.1,1990.42,Burger King
+Mumbai,35.6,1466.69,Domino's
+Chennai,40.3,1965.12,KFC
+Pune,34.3,1203.65,Pizza Hut
+Bangalore,39.9,630.15,Burger King
+Mumbai,35.6,958.44,Subway
+Mumbai,15.2,1248.09,Pizza Hut
+Pune,25.6,285.2,Pizza Hut
+Pune,33.6,1301.34,KFC
+Delhi,22.9,1965.18,Burger King
+Bangalore,41.0,501.7,Domino's
+Bangalore,50.3,1616.3,Subway
+Chennai,47.2,1829.61,Burger King
+Delhi,32.9,1895.85,Subway
+Delhi,49.9,1926.25,Pizza Hut
+Delhi,36.5,1114.7,KFC
+Delhi,31.6,1958.02,KFC
+Bangalore,28.9,1551.02,Taco Bell
+Bangalore,32.0,449.09,Domino's
+Delhi,31.1,1032.27,KFC
+Chennai,36.7,1478.91,Pizza Hut
+Mumbai,36.6,607.58,Domino's
+Mumbai,35.0,1335.14,Burger King
+Chennai,39.4,1383.21,KFC
+Delhi,46.9,450.99,Domino's
+Bangalore,44.5,1195.41,Pizza Hut
+Mumbai,20.2,1577.51,Taco Bell
+Pune,10.0,1072.96,Subway
+Pune,44.3,172.39,Subway
+Chennai,21.3,166.72,Pizza Hut
+Delhi,32.8,810.5,Pizza Hut
+Mumbai,23.3,1863.46,Subway
+Delhi,17.0,573.05,Taco Bell
+Mumbai,40.4,1323.57,Domino's
+Chennai,42.6,560.84,Subway
+Chennai,29.2,745.09,Pizza Hut
+Pune,10.0,1718.88,KFC
+Delhi,29.5,1498.39,Burger King
+Pune,38.9,326.49,Taco Bell
+Delhi,20.2,943.1,Taco Bell
+Pune,36.8,203.96,KFC
+Bangalore,34.8,1039.65,KFC
+Bangalore,40.8,1375.5,Pizza Hut
+Bangalore,36.2,369.23,Subway
+Bangalore,25.3,684.44,Domino's
+Mumbai,47.0,886.0,Taco Bell
+Bangalore,33.4,1851.13,Taco Bell
+Chennai,34.7,1987.52,KFC
+Chennai,25.7,233.09,Subway
+Mumbai,30.6,1557.86,Taco Bell
+Bangalore,26.2,837.69,Domino's
+Bangalore,33.3,876.05,KFC
+Bangalore,52.1,1545.39,Domino's
+Pune,21.3,1849.09,Subway
+Delhi,18.9,1909.22,Taco Bell
+Pune,49.7,1217.68,Burger King
+Delhi,32.9,810.67,Taco Bell
+Bangalore,28.3,1606.97,Subway
+Bangalore,45.4,614.35,Taco Bell
+Pune,28.9,1193.54,Taco Bell
+Pune,53.3,813.37,Pizza Hut
+Delhi,41.8,1364.77,Taco Bell
+Chennai,30.1,594.74,Taco Bell
+Delhi,56.6,504.45,Domino's
+Pune,28.9,1848.74,Burger King
+Pune,42.4,338.34,Domino's
+Mumbai,38.0,1086.02,Domino's
+Pune,48.0,558.58,KFC
+Mumbai,50.6,222.02,Pizza Hut
+Chennai,35.3,216.63,Domino's
+Delhi,27.5,474.16,Subway
+Delhi,39.6,1753.53,Subway
+Mumbai,28.2,672.59,Taco Bell
+Delhi,55.1,1908.35,KFC
+Pune,36.4,1226.0,Pizza Hut
+Bangalore,31.3,957.74,Pizza Hut
+Mumbai,36.8,1223.16,Taco Bell
+Delhi,21.5,1105.89,Subway
+Mumbai,25.3,1553.74,Burger King
+Mumbai,47.0,672.62,KFC
+Bangalore,28.4,803.14,Taco Bell
+Pune,24.5,1804.07,KFC
+Mumbai,40.4,1900.94,Subway
+Delhi,46.9,1801.23,Subway
+Chennai,42.2,925.98,Burger King
+Mumbai,45.0,1593.68,Burger King
+Mumbai,27.4,1031.22,Pizza Hut
+Bangalore,20.8,1070.45,KFC
+Pune,50.0,528.66,KFC
+Chennai,31.8,1243.59,Subway
+Delhi,32.5,494.35,Pizza Hut
+Chennai,48.3,763.39,Taco Bell
+Delhi,40.6,1731.81,KFC
+Pune,39.6,533.09,Pizza Hut
+Delhi,56.7,281.64,Pizza Hut
+Bangalore,28.6,277.66,Subway
+Bangalore,44.3,1890.45,Pizza Hut
+Bangalore,35.6,1087.8,Burger King
+Bangalore,37.7,907.41,Burger King
+Chennai,50.3,1650.13,Domino's
+Pune,40.1,1696.28,Subway
+Delhi,40.4,764.55,Taco Bell
+Delhi,45.7,1433.19,Domino's
+Bangalore,31.4,1576.58,Burger King
+Bangalore,26.6,1361.1,Domino's
+Mumbai,24.6,430.45,Subway
+Pune,15.3,1770.38,Subway
+Chennai,55.6,1147.32,Pizza Hut
+Delhi,24.0,672.57,KFC
+Mumbai,32.8,936.67,Pizza Hut
+Mumbai,32.2,219.51,Subway
+Delhi,38.1,386.55,Burger King
+Chennai,43.2,1566.26,Taco Bell
+Mumbai,43.6,150.02,Burger King
+Mumbai,29.2,920.65,Pizza Hut
+Pune,33.3,1116.64,Taco Bell
+Chennai,37.8,251.07,Subway
+Mumbai,32.5,1950.19,Burger King
+Chennai,51.1,568.33,Subway
+Delhi,39.9,712.77,Taco Bell
+Bangalore,42.3,712.29,Taco Bell
+Mumbai,41.6,576.27,Burger King
+Pune,46.7,152.73,Subway
+Delhi,36.8,1499.29,Domino's
+Chennai,22.0,1938.66,Subway
+Delhi,39.0,564.94,Taco Bell
+Mumbai,28.5,1376.64,Subway
+Chennai,29.7,1522.51,Pizza Hut
+Bangalore,40.9,1719.59,Domino's
+Delhi,47.4,931.86,KFC
+Mumbai,35.2,710.42,Pizza Hut
+Pune,38.1,751.8,KFC
+Chennai,52.0,1468.35,Burger King
+Delhi,37.4,1661.04,KFC
+Delhi,61.0,485.99,Subway
+Bangalore,40.7,836.24,KFC
+Bangalore,17.4,1818.59,Taco Bell
+Pune,42.5,1642.38,Pizza Hut
+Pune,38.8,1971.99,Pizza Hut
+Mumbai,47.9,1545.36,KFC
+Mumbai,41.7,877.41,Pizza Hut
+Pune,33.6,1242.68,Taco Bell
+Pune,22.8,1372.88,Pizza Hut
+Chennai,32.9,295.14,KFC
+Bangalore,26.5,1157.32,Domino's
+Mumbai,29.2,1462.24,Domino's
+Bangalore,40.9,459.54,Burger King
+Bangalore,51.7,1594.17,Pizza Hut
+Pune,38.9,1229.98,KFC
+Chennai,23.0,1911.61,Pizza Hut
+Delhi,39.4,228.48,Subway
+Chennai,47.0,640.85,Taco Bell
+Chennai,28.9,1262.87,Pizza Hut
+Bangalore,33.7,698.64,Pizza Hut
+Chennai,35.1,1471.68,Domino's
+Mumbai,27.2,1554.16,Taco Bell
+Bangalore,41.5,339.65,KFC
+Mumbai,33.8,1100.63,Pizza Hut
+Delhi,39.2,1091.45,Domino's
+Bangalore,26.1,833.17,Burger King
+Delhi,30.6,1875.91,Taco Bell
+Bangalore,42.2,1680.89,Domino's
+Pune,31.3,1439.84,Domino's
+Chennai,52.3,1471.5,Domino's
+Pune,31.0,1004.17,Pizza Hut
+Delhi,37.2,1853.84,Pizza Hut
+Chennai,44.3,1435.0,Burger King
+Bangalore,20.8,1498.61,Subway
+Chennai,17.4,1744.13,Subway
+Mumbai,19.7,657.03,Subway
+Chennai,47.6,1643.08,Taco Bell
+Mumbai,29.5,511.2,Taco Bell
+Chennai,60.6,788.88,Burger King
+Mumbai,29.4,770.88,Taco Bell
+Delhi,36.8,1960.27,Subway
+Pune,50.4,1734.59,Subway
+Bangalore,55.1,1447.16,Domino's
+Chennai,55.6,1495.06,Taco Bell
+Pune,47.1,1189.83,Pizza Hut
+Bangalore,45.2,1902.12,Pizza Hut
+Bangalore,40.9,1068.08,Domino's
+Mumbai,42.8,853.96,Domino's
+Delhi,29.5,451.62,Domino's
+Delhi,26.8,1604.48,Pizza Hut
+Pune,35.0,1508.72,Subway
+Delhi,33.3,861.06,Domino's
+Chennai,30.5,196.61,Burger King
+Delhi,42.0,1702.15,Domino's
+Pune,44.6,171.12,KFC
+Delhi,35.9,1451.84,Domino's
+Chennai,49.8,1944.98,Pizza Hut
+Mumbai,23.6,959.67,Taco Bell
+Pune,33.1,584.7,Domino's
+Mumbai,27.8,1454.01,Taco Bell
+Mumbai,16.3,1661.69,KFC
+Mumbai,34.2,1160.9,Burger King
+Bangalore,33.8,1939.02,Taco Bell
+Bangalore,50.1,245.59,Subway
+Mumbai,41.3,1083.87,Domino's
+Pune,24.8,1479.14,KFC
+Chennai,53.5,1745.88,KFC
+Chennai,47.2,481.62,Taco Bell
+Delhi,40.8,1630.01,Burger King
+Pune,32.7,1172.51,Pizza Hut
+Bangalore,25.4,883.62,Domino's
+Mumbai,31.3,393.67,KFC
+Delhi,45.9,1750.8,Burger King
+Chennai,53.8,440.96,Subway
+Bangalore,50.4,723.11,KFC
+Bangalore,30.1,686.58,Burger King
+Mumbai,23.8,1762.12,Pizza Hut
+Chennai,36.4,1394.5,Pizza Hut
+Pune,17.3,1623.86,KFC
+Bangalore,38.2,613.37,KFC
+Mumbai,33.5,1306.02,Taco Bell
+Pune,30.3,1207.73,Domino's
+Chennai,19.1,1690.74,Burger King
+Bangalore,40.1,1826.26,KFC
+Pune,29.7,172.49,Domino's
+Pune,23.3,1396.94,Taco Bell
+Pune,10.0,245.9,Domino's
+Bangalore,34.7,1165.39,KFC
+Bangalore,52.7,682.12,Pizza Hut
+Delhi,51.6,717.54,Burger King
+Chennai,30.4,802.97,Burger King
+Mumbai,29.0,1299.39,Pizza Hut
+Pune,39.7,767.99,KFC
+Delhi,25.0,1505.49,Burger King
+Mumbai,38.0,898.38,KFC
+Delhi,42.7,276.45,Taco Bell
+Bangalore,47.3,1599.96,KFC
+Pune,34.0,678.65,Domino's
+Mumbai,33.0,950.62,Pizza Hut
+Mumbai,26.2,1418.07,KFC
+Mumbai,26.7,765.04,Taco Bell
+Mumbai,32.7,254.68,Subway
+Mumbai,38.7,841.75,Pizza Hut
+Delhi,44.1,1897.23,Burger King
+Pune,27.0,1337.21,Domino's
+Bangalore,49.9,1392.24,Burger King
+Bangalore,32.3,1319.72,Taco Bell
+Bangalore,34.8,518.14,Taco Bell
+Bangalore,27.5,923.92,Burger King
+Delhi,10.8,1539.24,Pizza Hut
+Chennai,43.8,337.54,Burger King
+Pune,42.4,664.03,KFC
+Mumbai,32.2,661.19,Burger King
+Chennai,35.7,949.24,Domino's
+Bangalore,40.2,1963.68,Domino's
+Chennai,19.4,274.88,Subway
+Pune,29.7,1109.6,Domino's
+Mumbai,42.9,481.82,Burger King
+Mumbai,22.5,1945.75,Domino's
+Pune,37.9,359.61,Pizza Hut
+Pune,21.4,896.66,Domino's
+Bangalore,39.7,1515.09,KFC
+Mumbai,34.6,1453.43,Pizza Hut
+Chennai,18.8,932.05,Subway
+Delhi,46.6,791.07,KFC
+Delhi,27.7,885.58,Burger King
+Pune,26.9,638.91,Burger King
+Bangalore,37.0,529.87,Burger King
+Delhi,46.5,1043.62,KFC
+Mumbai,24.8,646.79,KFC
+Pune,35.6,681.8,KFC
+Chennai,39.3,1365.0,Pizza Hut
+Pune,41.9,1941.79,Taco Bell
+Chennai,36.8,1266.73,Pizza Hut
+Pune,31.3,292.41,Burger King
+Pune,26.7,289.83,Taco Bell
+Pune,35.9,1910.13,Domino's
+Chennai,24.3,699.99,Burger King
+Chennai,10.0,320.32,Subway
+Pune,39.4,1258.23,Pizza Hut
+Delhi,44.0,1303.75,KFC
+Bangalore,11.4,1349.73,Pizza Hut
+Bangalore,24.9,644.69,KFC
+Bangalore,41.2,177.95,Taco Bell
+Chennai,55.6,1935.28,Subway
+Chennai,35.2,614.15,Taco Bell
+Delhi,27.7,1400.65,Subway
+Bangalore,33.2,1457.27,Pizza Hut
+Bangalore,48.7,1278.51,KFC
+Pune,28.5,728.88,Taco Bell
+Chennai,27.0,651.53,Subway
+Bangalore,30.2,1255.69,Burger King
+Delhi,25.5,1752.28,Burger King
+Delhi,36.2,1901.46,Taco Bell
+Bangalore,51.2,345.93,KFC
+Chennai,38.2,436.43,Taco Bell
+Delhi,32.5,1897.76,Pizza Hut
+Pune,32.1,1512.59,Subway
+Delhi,19.4,1783.54,Pizza Hut
+Mumbai,43.8,524.87,Burger King
+Mumbai,34.2,1237.03,Subway
+Chennai,33.2,1447.11,Taco Bell
+Bangalore,66.9,1408.21,Pizza Hut
